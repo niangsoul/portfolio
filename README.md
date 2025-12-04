@@ -35,7 +35,7 @@
 >>    · 사용자 경험(UI/UX) 개선 디자인
 >>
 >> [프로젝트 상세 설명(Front-end)]()
->>
+>
 >> Back-end
 >> - Language : Java
 >> - Skill :
