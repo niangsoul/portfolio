@@ -24,7 +24,7 @@
 > - 핵심 역할 : 팀장, TSP 알고리즘을 활용한 여행추천 알고리즘 작성, React를 사용한 SPA 개발
 >
 >> Front-end
->> - Language : HTML, CSS, JavaScript
+>> - Language : HTML , CSS , JavaScript
 >> - Skill : 
 >>    · Thymeleaf 템플릿 엔진
 >>    · Fetch API 기반 비동기 통신(AJAX)
