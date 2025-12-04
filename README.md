@@ -23,7 +23,7 @@
 > - 개발기간 : 2025.09 ~ 2025.12
 > 
 >
->> [프로젝트 상세 설명]()
+>> [프로젝트 상세 설명](https://github.com/niangsoul/My-Planner)
 >> 
 >> Front-end
 >> - Language : HTML , CSS , JavaScript
