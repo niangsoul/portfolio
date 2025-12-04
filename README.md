@@ -15,3 +15,6 @@
 
 # 📝Projects
 
+1. 📅 My Planner
+
+나만의 통합 일정 관리 서비스.
