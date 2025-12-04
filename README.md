@@ -35,3 +35,19 @@
 >>    · 사용자 경험(UI/UX) 개선 디자인
 >>
 >> [프로젝트 상세 설명(Front-end)]()
+>>
+>> Back-end
+>> - Language : Java
+>> - Skill :
+>>    · Spring Boot 기반 MVC 아키텍처
+>>    · Spring Data JPA(Repository 기반 CRUD)
+>>    · MySQL 연동 및 ORM(Entity 매핑)
+>>    · Spring Security(로그인 세션 기반 접근 제어)
+>>    · Service·Controller·Repository 레이어 설계
+>>    · DTO 및 Entity 분리 설계
+>>    · Validation 처리(중복검사, 회원 인증)
+>>    · RESTful 구조 일부 적용
+>>    · Lombok 활용으로 코드 간소화
+>>    · 에러/예외 처리 및 로그 관리
+>>
+>> [프로젝트 상세 설명(Back-end)]()
